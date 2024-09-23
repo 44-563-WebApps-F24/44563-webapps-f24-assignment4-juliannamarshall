@@ -1,0 +1,24 @@
+/*speech class*/
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+    color: black;
+}
+
+/*direction class*/
+.direction{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 9;
+    color: black;
+    background-color: lightgray;
+}
+.direction:hover{
+    color: red;
+    background-color: green;
+}
+
+/*name class*/
+.ant{color:red;}
+.cr{color: blue;}
+.ch{color: green;}
+.ism{color: purple;}
