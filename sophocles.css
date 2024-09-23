@@ -13,8 +13,8 @@
     background-color: lightgray;
 }
 .direction:hover{
-    color: red;
-    background-color: green;
+    color: white;
+    background-color: black;
 }
 
 /*name class*/
