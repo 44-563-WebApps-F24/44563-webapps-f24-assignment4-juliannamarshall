@@ -19,6 +19,18 @@
 
 /*name class*/
 .ant{color:red;}
+.ant:hover{
+    text-shadow: 2px 2px 8px darkred;
+    border: 2px solid darkred;}
 .cr{color: blue;}
+.cr:hover{
+    text-shadow: 2px 2px 8px darkblue;
+    border: 2px solid darkblue;}
 .ch{color: green;}
+.ch:hover{
+    text-shadow: 2px 2px 8px darkgreen;
+    border: 2px solid darkgreen;}
 .ism{color: purple;}
+.ism:hover{
+    text-shadow: 2px 2px 8px darkorchid;
+    border: 2px solid darkorchid;}
