@@ -1,0 +1,6 @@
+table, th, td{
+    border: 5px double blue;
+    text-align: center;
+    margin: 100px 13em 15pt 10%;
+    padding: 10px;
+}
